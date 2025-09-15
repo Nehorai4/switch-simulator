@@ -47,7 +47,17 @@ class SimpleSwitch:
 
 if __name__ == "__main__":
     switch = SimpleSwitch()
-    switch.receive_frame("00:1A:2B:3C:4D:5E", "FF:FF:FF:FF:FF:FF", 1, vlan_id=1)
-    switch.receive_frame("00:1A:2B:3C:4D:5E", "00:5E:6F:7A:8B:9C", 1, vlan_id=1)
-    switch.receive_frame("00:AA:BB:CC:DD:EE", "FF:FF:FF:FF:FF:FF", 3, vlan_id=2)
-    switch.show_table()
+    while True:
+        try:
+            src_mac = input("Enter source MAC (e.g., 00:1A:2B:3C:4D:5E) or 'quit' to exit: ")
+            if src_mac.lower() == 'quit':
+                break
+            dst_mac = input("Enter destination MAC (e.g., 00:5E:6F:7A:8B:9C): ")
+            port = int(input("Enter port number (1-10): "))
+            vlan_id = int(input("Enter VLAN ID (1-4094): "))
+            switch.receive_frame(src_mac, dst_mac, port, vlan_id)
+            switch.show_table()
+        except ValueError:
+            logger.error("Invalid input: Port and VLAN must be numbers")
+        except Exception as e:
+            logger.error(f"Error: {e}")
