@@ -1,7 +1,14 @@
 import logging
 
-# הגדרת לוגינג
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# הגדרת לוגינג עם קובץ יומן
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),  # מדפיס למסך
+        logging.FileHandler('switch_log.txt')  # שומר לקובץ
+    ]
+)
 logger = logging.getLogger(__name__)
 
 class SimpleSwitch:

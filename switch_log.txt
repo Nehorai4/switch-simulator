@@ -1,0 +1,93 @@
+2025-09-15 11:16:48,575 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:16:48,576 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:16:48,576 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:16:48,576 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:16:48,576 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:16:48,576 - INFO - Learned MAC 00:AA:BB:CC:DD:EE on port 3 (VLAN 2)
+2025-09-15 11:16:48,577 - INFO - Flooding frame to all ports except 3 (VLAN 2)
+2025-09-15 11:16:48,577 - INFO - MAC Table:
+2025-09-15 11:16:48,577 - INFO - VLAN 1:
+2025-09-15 11:16:48,577 - INFO -   00:1A:2B:3C:4D:5E -> 1
+2025-09-15 11:16:48,577 - INFO - VLAN 2:
+2025-09-15 11:16:48,578 - INFO -   00:AA:BB:CC:DD:EE -> 3
+2025-09-15 11:17:18,508 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:17:18,509 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:17:18,509 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:17:18,511 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:17:18,512 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:17:18,512 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:17:18,513 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:17:18,513 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:17:18,514 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:17:18,514 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:17:18,515 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:18:54,104 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:18:54,105 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:18:54,106 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:18:54,107 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:18:54,109 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:18:54,109 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:18:54,110 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:18:54,110 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:18:54,111 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:18:54,112 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:18:54,112 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:19:08,195 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:19:08,196 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:19:08,197 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:19:08,198 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:19:08,199 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:19:08,200 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:19:08,200 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:19:08,200 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:19:08,201 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:19:08,202 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:19:08,202 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:20:07,551 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:07,553 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:07,554 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:07,554 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:20:07,555 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:20:51,926 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:51,927 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:20:51,927 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:20:51,929 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:51,930 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:20:51,930 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:20:51,931 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:20:51,931 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:20:51,933 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:20:51,933 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:20:51,934 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:21:33,852 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:21:33,854 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:21:33,855 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:21:33,856 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:21:33,856 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:22:20,434 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:22:20,435 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:22:20,435 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:22:20,437 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:22:20,438 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:22:20,439 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:22:20,439 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:22:20,439 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:22:20,440 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:22:20,440 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:22:20,441 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:24:34,919 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:24:34,920 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:24:34,920 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:24:34,921 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:24:34,923 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:24:34,923 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:24:34,923 - INFO - Learned MAC 00:5E:6F:7A:8B:9C on port 2 (VLAN 1)
+2025-09-15 11:24:34,924 - INFO - Forwarding frame from port 2 to port 1 (VLAN 1)
+2025-09-15 11:24:34,924 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:24:34,925 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:24:34,925 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:25:33,098 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:25:33,099 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:25:33,100 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:25:33,101 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:25:33,101 - INFO - Flooding frame to all ports except 1 (VLAN 1)
