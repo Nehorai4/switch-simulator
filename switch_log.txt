@@ -91,3 +91,31 @@
 2025-09-15 11:25:33,100 - INFO - Switch initialized with empty MAC table
 2025-09-15 11:25:33,101 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
 2025-09-15 11:25:33,101 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:28:42,613 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:28:42,614 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:28:42,614 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:28:42,615 - INFO - Frame 1 processed in 0.0000 seconds
+2025-09-15 11:28:42,615 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:28:42,616 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:28:42,616 - INFO - Frame 2 processed in 0.0010 seconds
+2025-09-15 11:28:42,616 - INFO - Learned MAC 00:AA:BB:CC:DD:EE on port 3 (VLAN 2)
+2025-09-15 11:28:42,616 - INFO - Flooding frame to all ports except 3 (VLAN 2)
+2025-09-15 11:28:42,617 - INFO - Frame 3 processed in 0.0010 seconds
+2025-09-15 11:28:42,617 - INFO - MAC Table:
+2025-09-15 11:28:42,617 - INFO - VLAN 1:
+2025-09-15 11:28:42,617 - INFO -   00:1A:2B:3C:4D:5E -> 1
+2025-09-15 11:28:42,617 - INFO - VLAN 2:
+2025-09-15 11:28:42,618 - INFO -   00:AA:BB:CC:DD:EE -> 3
+2025-09-15 11:28:42,618 - INFO - Total frames processed: 3
+2025-09-15 11:29:07,940 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:07,943 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:07,944 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:07,944 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:29:07,944 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:29:07,945 - INFO - Frame 1 processed in 0.0010 seconds
+2025-09-15 11:29:46,104 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:46,105 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:46,107 - INFO - Switch initialized with empty MAC table
+2025-09-15 11:29:46,107 - INFO - Learned MAC 00:1A:2B:3C:4D:5E on port 1 (VLAN 1)
+2025-09-15 11:29:46,108 - INFO - Flooding frame to all ports except 1 (VLAN 1)
+2025-09-15 11:29:46,108 - INFO - Frame 1 processed in 0.0010 seconds
